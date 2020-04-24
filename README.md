@@ -3,8 +3,8 @@
 
 ## Tentative Schedule:
 **May 4<sup>th</sup> 2020**  
-**Duration:** half day, 9am - 1pm Eastern Standard Time (EST)
-**Location:** ZOOM LINK HERE
+**Duration:** half day, 9am - 1pm Eastern Standard Time (EST)  
+**Location:** [Webinar](https://columbiauniversity.zoom.us/u/atn0QphQ2Join)
 
 More information about the program can be found on [the conference's tutorial program website](https://www.knowledgegraph.tech/the-knowledge-graph-conference-kgc/workshops-and-tutorials/#1580503922536-633f3f10-737b)
 
