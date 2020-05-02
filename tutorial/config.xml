@@ -12,7 +12,7 @@
         <name>NAME</name> 
         <comparator>no.priv.garshol.duke.comparators.Levenshtein</comparator>
         <low>0.3</low>
-        <high>0.88</high>
+        <high>0.8</high>
       </property>
       <property>
         <name>ADDRESS</name> 
