@@ -19,7 +19,8 @@ Building and hosting a Knowledge Graph requires some effort and a lot of experie
 We dockerized the Duke tool for you so you do not have to worry about the dependencies on your system. In order to use the dockerized demo:
 
 * Set-up docker on your computer by following the [instructions](https://docs.docker.com/get-docker/) for your operating system. 
-* Clone the github repository for the tutorial and open the command line (terminal) in the `tutorial` folder.
+* Clone the [repository](https://github.com/STIInnsbruck/kgs) from GitHub by running `git clone https://github.com/STIInnsbruck/kgs` command.
+* Open the command line (terminal) in the `tutorial` folder.
 * Run `docker build -t duke . ` This command will use the the default docker file which directly runs the Duke tool with the example RDF document.
 * Run `docker run -it duke` to run the container. 
 * Use the interactive linking to detect duplicates.
@@ -28,6 +29,14 @@ We dockerized the Duke tool for you so you do not have to worry about the depend
 > Alternatively, you can use the `docker build -t duke --f=Dockerfile_alt . ` command to build the image that gives you access to the linux shell, so you can play around with the tool more flexibly. If you use this option, you should run the tool as described in the **Java** instructions below.
 
 #### with Java
+
+For this option you would need Java installed on your computer. We have tested it with Java 8, but newer versions should also fine. If you are having issues with the dependencies, please consider running the Docker demo.
+
+* Clone the [repository](https://github.com/STIInnsbruck/kgs) from GitHub by running `git clone https://github.com/STIInnsbruck/kgs` command.
+* Open the command line (terminal) in the `tutorial` folder.
+* Run `java -jar duke-core-1.3-SNAPSHOT.jar --interactive --linkfile=out.txt config.xml`
+* Use interactive linking to detect duplicates.
+* View the results saved in `out.txt` in the `tutorial` folder with your favorite text editor.
 
 
 ## Organizers
