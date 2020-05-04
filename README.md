@@ -257,3 +257,8 @@ A framework that contains a fusion module that allows users to configure conflic
 Sieve has a data fusion module that supports different fusion functions on selected property values. It also utilizes the assessment values from the assessment module in the fusion process.
 
 *[Mendes et al., 2012] Mendes, P.N., Mühleisen, H., Bizer, C.: Sieve: linked data quality assessment and fusion. In: Proceedings of 2nd International Workshop on Linked Web Data Management (LWDM 2012), in conjunction with the 15th International Conference on Extending Database Technology (EDBT2012): Workshops, Berlin, Germany, March 30, 2012. pp. 116–123. ACM (2012). https://doi.org/10.1145/2320765.2320803*
+
+#### Survey paper about duplication detection
+[Duplication Detection in Knowledge Graphs: Literature and Tools](https://arxiv.org/abs/2004.08257)
+
+*[Huaman et al., 2020] Huaman, E., Kärle, E., & Fensel, D.: Duplication Detection in Knowledge Graphs: Literature and Tools. arXiv preprint [arXiv:2004.08257](https://arxiv.org/abs/2004.08257) (2020).
