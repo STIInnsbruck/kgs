@@ -11,6 +11,25 @@ More information about the program can be found on [the conference's tutorial pr
 ## Abstract
 Building and hosting a Knowledge Graph requires some effort and a lot of experience in semantic technologies. Turning this Knowledge Graph into a useful resource for problem solving requires even more effort. An important consideration is to provide cost-sensitive methods to build a Knowledge Graph that is a useful resource for various applications: “There are two main goals of Knowledge Graph refinement: (a) adding missing knowledge to the graph, i.e., completion, and (b) identifying wrong information in the graph, i.e. error detection.” [Paulheim, 2017] This tutorial is targeting the process from knowledge creation over knowledge hosting, knowledge curation to knowledge deployment – applied to a Knowledge Graph using schema.org and domain specific extensions of schema.org as an ontology. The tutorial will be based on a book the lecturers co-authored: “Knowledge Graphs – Methodology, Tools and Selected UseCases” [Fensel et al., 2020] and is an extended and adapted version of a tutorial the lecturers gave at [SEMANTICS2019](https://2019.semantics.cc/satellite-events/how-build-knowledge-graph).
 
+## Demo Instructions 
+
+### Duke
+
+#### with Docker (Recommended)
+We dockerized the Duke tool for you so you do not have to worry about the dependencies on your system. In order to use the dockerized demo:
+
+* Set-up docker on your computer by following the [instructions](https://docs.docker.com/get-docker/) for your operating system. 
+* Clone the github repository for the tutorial and open the command line (terminal) in the `tutorial` folder.
+* Run `docker build -t duke . ` This command will use the the default docker file which directly runs the Duke tool with the example RDF document.
+* Run `docker run -it duke` to run the container. 
+* Use the interactive linking to detect duplicates.
+* The results will be shown on your terminal.
+
+> Alternatively, you can use the `docker build -t duke --f=Dockerfile_alt . ` command to build the image that gives you access to the linux shell, so you can play around with the tool more flexibly. If you use this option, you should run the tool as described in the **Java** instructions below.
+
+#### with Java
+
+
 ## Organizers
 The presenters are experienced PhD students with several publications in the field. They also actively participate in a industry-funded project, [MindLab](https://mindlab.ai), that aims to build a Knowledge Graph for the tourism domain to be consumed by conversational agents. Moreover, the presenters have teaching experience in the field, especially with courses like Semantic Web and Semantic Web Services.
 
