@@ -34,4 +34,4 @@ Umutcan Simsek is a senior PhD student at STI Innsbruck. His research is on serv
 
 ## Slides
 
-to be published right after the tutorial
+Slides can be downloaded [here as pdf](KGC2020-schema.org-KG.pdf).
