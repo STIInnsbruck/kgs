@@ -62,7 +62,8 @@ Umutcan Simsek is a senior PhD student at STI Innsbruck. His research is on serv
 
 ## Slides
 
-Slides can be downloaded [here as pdf](KGC2020-schema.org-KG.pdf).
+Slides can be downloaded [here as pdf](KGC2020-schema.org-KG.pdf),   
+and here: [Building a Knowledge Graph from schema.org annotations](https://zenodo.org/record/3814496)
 
 ## Methods and Tools
 
