@@ -61,8 +61,9 @@ umutcan[dot]simsek[at]sti2[dot]at
 Umutcan Simsek is a senior PhD student at STI Innsbruck. His research is on service-driven goal-oriented dialog systems, supervised by Univ.-Prof. Dr. Dieter Fensel. He has been a part of the research group  for 4 years and worked on several industrial and research projects at both national and EU level. He has (co-) authored several publications, including conference and journal publications as well as a book about topics like web service annotation, Knowledge Graph building based on schema.org annotations and domain-specific verification of semantic annotations. He is also a receiver of the [netidee](https://www.netidee.at/user/1154) grant in 2018 awarded by the Internet Privatstiftung Austria for the most innovative PhD and Master theses in Austria.
 
 ## Slides
-
-Slides can be downloaded [here as pdf](https://zenodo.org/record/3814496#.XrW32igvNUI).
+Slides can be downloaded here [Building a Knowledge Graph from schema.org annotations](https://zenodo.org/record/3814496)   
+*Zite as:*   
+Elias Kärle, Umutcan Simsek, & Dieter Fensel. (2020, May). Building a Knowledge Graph from schema.org annotations. Zenodo. http://doi.org/10.5281/zenodo.3814496
 
 ## Methods and Tools
 
