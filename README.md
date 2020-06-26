@@ -62,7 +62,7 @@ Umutcan Simsek is a senior PhD student at STI Innsbruck. His research is on serv
 
 ## Slides
 Slides can be downloaded here [Building a Knowledge Graph from schema.org annotations](https://zenodo.org/record/3814496)   
-*Zite as:*   
+*Cite as:*   
 Elias Kärle, Umutcan Simsek, & Dieter Fensel. (2020, May). Building a Knowledge Graph from schema.org annotations. Zenodo. http://doi.org/10.5281/zenodo.3814496
 
 ## Methods and Tools
